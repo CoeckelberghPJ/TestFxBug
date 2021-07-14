@@ -27,7 +27,7 @@ namespace Tests
             yield return new object[] {
                 new User("Doe", "Jane"),
                 "Doe",
-                "Jane "
+                "Jane"
             };
         }
     }
